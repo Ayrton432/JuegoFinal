@@ -1,0 +1,15 @@
+﻿  Animation.cpp
+  Console.cpp
+  Engine.cpp
+  Entity.cpp
+  gameF.cpp
+  GameState.cpp
+  Ghost.cpp
+  Labyrinth.cpp
+  PacMan.cpp
+  PlayingState.cpp
+C:\projects\gameF\gameF\PlayingState.cpp(30,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Resources.cpp
+  StateManager.cpp
+  Generando código...
+  gameF.vcxproj -> C:\projects\gameF\x64\Debug\gameF.exe
